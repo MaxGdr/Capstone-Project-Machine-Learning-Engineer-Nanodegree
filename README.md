@@ -37,7 +37,9 @@ Weights are upload and available on Google Drive.
 If you don't want to train the model, and just play with inference :
 
 Download the weights of trained models : 
+
 [weights zip of the latest train (Best)](https://drive.google.com/uc?id=1FWGVilTO8DOWC9yDPQYeNx5rnaXG_Iw-&export=download)
+
 [weights zip for experimentation 01](https://drive.google.com/uc?export=download&confirm=CDIp&id=1uexevb6_9VgZcO7hrPJMfjCEWxu-mo06)
 
 Zip file have : 
