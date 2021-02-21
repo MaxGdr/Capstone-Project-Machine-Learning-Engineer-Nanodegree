@@ -1,5 +1,11 @@
 # Capstone-Project-Machine-Learning-Engineer-Nanodegree
 
+Colorize Grayscale images with GANs !
+
+Mean SSIM on 3000 validation samples : **0.87**
+
+<img src="./last_train/colorization_1613765691.7192485.png">
+
 
 # Capstone Proposal
 This repo expose my Capstone Project Proposal for my ML Engineer Nanodegree at Udacity : *Image colorization*
