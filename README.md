@@ -8,7 +8,7 @@ To get hyperlinks on references I've done, please download it.
 
 # Capstone Project
 
-My Capstone Project is [this file](https://github.com/MaxGdr/Capstone-Project-Machine-Learning-Engineer-Nanodegree/blob/main/Capstone%20Project%20-%20Image%20Colorization.pdf
+My Capstone Project is explained in [this file](https://github.com/MaxGdr/Capstone-Project-Machine-Learning-Engineer-Nanodegree/blob/main/Capstone%20Project%20-%20Image%20Colorization.pdf
 )
 
 You can also find in this repository my Notebook to train a Generative Adversarial Network, to colorize grayscale images.
